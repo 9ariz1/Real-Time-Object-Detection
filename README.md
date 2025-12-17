@@ -9,7 +9,7 @@ The application captures live video from a webcam and processes each frame using
 ## 📁 Project Structure : 
 
 
-![Output Screenshot](Screenshot.png)
+![Project Structure](https://user-images.githubusercontent.com/XXXXXXXX/your-screenshot.png)
 
 ## 🚀 How It Works:
 
