@@ -6,17 +6,10 @@ This project is a real-time object detection system that uses a live webcam feed
 
 The application captures live video from a webcam and processes each frame using a pre-trained object detection model. Detected objects are displayed with bounding boxes and labels in real time. The system is optimized for speed, accuracy, and low latency, making it suitable for practical applications.
 
-## 📁 Project Structure :
-
-real-time-object-detection/
-├── model/
-│   └── object_detection_model
-├── main.py
-|
-└── README.md
+## 📁 Project Structure : 
 
 
----
+![Output Screenshot](Screenshot.png)
 
 ## 🚀 How It Works:
 
