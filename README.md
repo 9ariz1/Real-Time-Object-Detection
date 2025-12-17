@@ -9,7 +9,7 @@ The application captures live video from a webcam and processes each frame using
 ## 📁 Project Structure : 
 
 
-![Project Structure](https://user-images.githubusercontent.com/XXXXXXXX/your-screenshot.png)
+![Project Structure](https://github.com/9ariz1/Real-Time-Object-Detection/blob/main/screenshot.png.jpg)
 
 ## 🚀 How It Works:
 
